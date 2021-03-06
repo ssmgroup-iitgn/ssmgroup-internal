@@ -50,4 +50,5 @@ We have SSH enabled in all the machines in the lab. You are required to contact 
   5. Hp Z60-II
     * System Type : Midrange Desktop
     * Softwares Available
+
 The paths to these softwares are availble in the '.bashrc' file in the administrator account (SSM_group). You can also find the paths to them by issuing 'which \<package name>\' in the terminal
