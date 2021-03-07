@@ -19,7 +19,7 @@ We have SSH enabled in all the machines in the lab. You are required to contact 
 ## System Specifications and Softwares available on Each Machine
 1. Asus
   * System Type : Workstation
-    - Number of CPU cores : 16 (Use only 12 under any circumstances)
+    - Number of CPU cores : 16 (Use maximum of 12 under any circumstances)
     - GPU Card : NVIDIA RTX 2070
     - SSH Enabled
     - OS : Ubuntu 18.04
@@ -32,7 +32,7 @@ We have SSH enabled in all the machines in the lab. You are required to contact 
     - CHARMM v36b
  2. Tyrone
   * System Type : Workstation
-    - Number of CPU cores : 32 (Use only 28 under any circumstances)
+    - Number of CPU cores : 32 (Use maximum of 28 under any circumstances)
     - GPU Card : NVIDIA GTX 1080Ti
     - SSH Enabled
     - OS : Ubuntu 20.04 
@@ -47,7 +47,7 @@ We have SSH enabled in all the machines in the lab. You are required to contact 
     - CHARMM v36b
   3. Hp Z60-I
     * System Type : Midrange Desktop
-     - Number of CPU cores : 12 (Use only 8 under any circumstances)
+     - Number of CPU cores : 12 (Use maximum of 8 under any circumstances)
      - GPU card : NVIDIA GTX 1070
      - SSH Enabled
      - OS : Ubuntu 18.04
@@ -55,7 +55,7 @@ We have SSH enabled in all the machines in the lab. You are required to contact 
      - NAMD 2.13 with CUDA acceleration
   5. Hp Z60-II
     * System Type : Midrange Desktop
-     - Number of CPU cores : 12 (Use only 8 under any circumstances)
+     - Number of CPU cores : 12 (Use maximum of 8 under any circumstances)
      - GPU card : NVIDIA GTX 1070
      - SSH Enabled
      - OS : Ubuntu 18.04
